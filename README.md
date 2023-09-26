@@ -2,7 +2,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua_kley/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-kley)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([kauakleymd@gmail.com](https://mail.google.com/mail/u/1/))
 
 ![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=transparent)
 
@@ -17,3 +16,6 @@
  <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
  <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
+
+## Contato
+kauakleymd@gmail.com ou kley0237@gmail.com
