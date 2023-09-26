@@ -1,10 +1,10 @@
-### Olá, eu sou o Kauã Kley 👋
+### Olá, eu sou Kauã Kley 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua_kley/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kauã-kley)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kauakleymd@gmail.com)
 
-![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=radical)
+![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=transparent)
 
 ## Tecnologias que eu uso
 
