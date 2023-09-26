@@ -1,7 +1,7 @@
 ### Olá, eu sou Kauã Kley 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua_kley/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/kauã-kley]([www.linkedin.com/in/kauã-kley](https://www.linkedin.com/in/kau%C3%A3-kley)))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-kley)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]([kauakleymd@gmail.com](https://mail.google.com/mail/u/1/))
 
 ![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=transparent)
