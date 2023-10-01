@@ -2,9 +2,13 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua_kley/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-kley)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kauakleymd@gmail.com)
 
-![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
+![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=dark) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KauaKley&layout=compact)
 
 ## Tecnologias que eu uso
 
