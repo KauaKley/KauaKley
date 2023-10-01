@@ -3,7 +3,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaua_kley/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kau%C3%A3-kley)
 
-![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=transparent)
+![Kauã Kley GitHub stats](https://github-readme-stats.vercel.app/api?username=KauaKley&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## Tecnologias que eu uso
 
@@ -19,3 +20,5 @@
 
 ## Contato
 kauakleymd@gmail.com ou kley0237@gmail.com
+
+![Snake animation](https://github.com/KauaKley/KauaKley/blob/output/github-contribution-grid-snake.svg)
