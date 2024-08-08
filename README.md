@@ -4,7 +4,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaKley&theme=windows-dark&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaKley&theme=windows-white&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
 
 </div>
 
@@ -48,9 +48,11 @@
 
 
 <picture align="center">
+  
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&user=KauaKley">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-light&user=KauaKley">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=KauaKley">
+  
 </picture>
 
 
