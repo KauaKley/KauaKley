@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+meu+nome+é+Kauã+Kley;Tenho+21+anos;e+sou+Engenheiro+de+Software)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+meu+nome+é+Kauã+Kley;Tenho+21+anos;e+sou+Engenheiro+de+Software)
 <br>
 <br>
 
