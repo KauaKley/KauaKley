@@ -1,10 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+meu+nome+é+Kauã+Kley;Tenho+21+anos;e+sou+Engenheiro+de+Software)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&random=false&width=1000&lines=Oi%2C+meu+nome+é+Kauã+Kley;Tenho+22+anos;e+sou+Engenheiro+de+Software)
 <br>
 <br>
 
 <div align="center">
-
-  
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaKley&theme=windows-white&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
 
 </div>
