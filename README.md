@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
- 
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KauaKley&theme=windows-white&border_radius=10&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_width=900&card_height=200)](https://git.io/streak-stats)
 
 </div>
@@ -16,13 +16,11 @@
 
 </div>
 
-<br>
-<br>
-
-<div align="center">  
-  <img width="100%" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaKley&layout=compact&hide_border=true&title_color=1E90FF&text_color=FFFFFF&bg_color=0d1117" />
+<div align="center">
+<a href="https://github.com/KauaKley/">
+<img loading="lazy" height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=KauaKley&layout=compact&langs_count=8&card_width=320&theme=dracula"/>
 </div>
-
+ 
 <br>
 <br>
 
@@ -48,9 +46,9 @@
 
 
 <picture align="center">
-  
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&user=KauaKley">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=KauaKley">
+<a href="https://github.com/KauaKley/">
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?palette=github-dark&user=KauaKley">
+<img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?user=KauaKley">
   
 </picture>
 
